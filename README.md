@@ -37,7 +37,17 @@ Este proyecto consiste en una aplicación desarrollada en Python que permite ges
 - paises.csv
 - Informe.pdf
 
-## Video demostración
+## Repositorio GitHub
+
+https://github.com/dani999rodri-ux/TPI-Pa-ses-Python
+
+## Video demostrativo
+
+https://youtu.be/5rFpA_gAojE
+
+## Documentación PDF
+
+El archivo Informe_TPI_Paises.pdf se encuentra en la raíz del repositorio.
 
 
 
